@@ -21,7 +21,7 @@ from userbot.events import register
 async def who(event):
 
     await event.edit(
-        "`Hacking Telegram's Database...`")
+        "`kon hai ye makalavda...`")
 
     if not os.path.isdir(TEMP_DOWNLOAD_DIRECTORY):
         os.makedirs(TEMP_DOWNLOAD_DIRECTORY)
